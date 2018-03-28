@@ -6,7 +6,7 @@ The goal of these courses is to get acquainted with the React ecosystem and its 
 
 The repo is organized as a mono repo, each coding session lives in its session[n] directory. Each session directory contains a README.md that includes the session plan
 
-##Cheatsheet
+## Cheatsheet
 This section contains code snippets / notes that will be used accross sessions
 
 ### Openweather API
